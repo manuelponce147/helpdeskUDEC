@@ -1,0 +1,15 @@
+asgiref==3.2.10
+beautifulsoup4==4.9.1
+Django==2.2.15
+django-bootstrap-form==3.4
+django-helpdesk==0.2.22
+django-markdown-deux==1.0.5
+email-reply-parser==0.5.9
+lxml==4.5.2
+markdown2==2.3.9
+psycopg2-binary==2.8.5
+pytz==2020.1
+simplejson==3.17.2
+six==1.15.0
+soupsieve==2.0.1
+sqlparse==0.3.1
