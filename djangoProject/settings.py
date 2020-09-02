@@ -79,7 +79,12 @@ WSGI_APPLICATION = 'djangoProject.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
 
-DATABASES = { 'default': { 'ENGINE': 'django.db.backends.postgresql_psycopg2', 'NAME':'helpdesk_db', 'USER' : 'tecmint', 'PASSWORD' : 'securep@wd', 'HOST' : 'localhost', 'PORT' : '5432' } }
+DATABASES = { 'default': { 'ENGINE': 'django.db.backends.postgresql_psycopg2',
+                           'NAME':'amworakz',
+                           'USER' : 'amworakz',
+                           'PASSWORD' : 'CBgvnDoyl6o1BisdXHjtfARopSMkX50w',
+                           'HOST' : 'lallah.db.elephantsql.com',
+                           'PORT' : '5432' } }
 
 
 # Password validation
